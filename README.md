@@ -12,3 +12,5 @@
 - [AWS STS operations](https://awscli.amazonaws.com/v2/documentation/api/2.4.18/reference/sts/index.html#cli-aws-sts)
 - [EKS pod identity](https://docs.aws.amazon.com/eks/latest/userguide/pod-id-how-it-works.html)
 - [IAM roles for service accounts - deprecated in favor of pod identity](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html)
+- [Roles Anywhere](https://docs.aws.amazon.com/rolesanywhere/latest/userguide/introduction.html)
+- [Using session policies](https://aws.amazon.com/blogs/security/create-fine-grained-session-permissions-using-iam-managed-policies/)
