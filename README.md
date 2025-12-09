@@ -21,3 +21,4 @@
 - [End-to-end permission boundary example](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html) 
 - [Cloudtrail lake - data lake for cloud trail audit logs](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-lake.html)
 - [Creating an AWS organization](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_tutorials_basic.html)
+- [Best practices for management accounts - KEEP IN MIND THAT SCPs WON'T APPLY TO THEM](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices_mgmt-acct.html)
