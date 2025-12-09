@@ -25,3 +25,4 @@
 - [Recommended OUs and accounts in a multi-account environment](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/recommended-ous-and-accounts.html)
 - [Migrating the legacy landing zones to control tower](https://aws.amazon.com/blogs/mt/migrate-aws-landing-zone-solution-to-aws-control-tower/)
 - [Tutorials for using other identity providers, such as Entra ID, with Identity Center](https://docs.aws.amazon.com/singlesignon/latest/userguide/tutorials.html)
+- [Announcement of multiple plans in Cognito - features vary by plan "Lite", "Essentials"  and "Plus"](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
