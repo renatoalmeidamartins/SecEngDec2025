@@ -14,3 +14,4 @@
 - [IAM roles for service accounts - deprecated in favor of pod identity](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html)
 - [Roles Anywhere](https://docs.aws.amazon.com/rolesanywhere/latest/userguide/introduction.html)
 - [Using session policies](https://aws.amazon.com/blogs/security/create-fine-grained-session-permissions-using-iam-managed-policies/)
+- [AWS policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
