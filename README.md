@@ -5,3 +5,6 @@
 - [Skill builder, massive site with labs, materials and certification preparation](https://skillbuilder.aws/)
 - [Suggested path to prepare for the Security Specialty exam](https://skillbuilder.aws/category/exam-prep/security-specialty-SCS-C03)
 ## Day 1 links
+- [Threat dragon, tool for modeling threats from OWASP](https://owasp.org/www-project-threat-dragon/)
+- [Microsoft Threat modeling tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
+- [Signing requests to AWS using SIGv4](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv.html)
