@@ -8,3 +8,4 @@
 - [Threat dragon, tool for modeling threats from OWASP](https://owasp.org/www-project-threat-dragon/)
 - [Microsoft Threat modeling tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
 - [Signing requests to AWS using SIGv4](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv.html)
+- [Operations that require root user credential](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html)
