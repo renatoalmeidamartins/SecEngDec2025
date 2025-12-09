@@ -15,3 +15,5 @@
 - [Roles Anywhere](https://docs.aws.amazon.com/rolesanywhere/latest/userguide/introduction.html)
 - [Using session policies](https://aws.amazon.com/blogs/security/create-fine-grained-session-permissions-using-iam-managed-policies/)
 - [AWS policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- [Condition keys available in IAM policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html)
+- [Using variables in policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html)
