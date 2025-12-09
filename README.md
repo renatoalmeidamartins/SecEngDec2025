@@ -19,3 +19,4 @@
 - [Using variables in policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html)
 - [IAM policy simulator](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_testing-policies.html)
 - [End-to-end permission boundary example](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html) 
+- [Cloudtrail lake - data lake for cloud trail audit logs](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-lake.html)
