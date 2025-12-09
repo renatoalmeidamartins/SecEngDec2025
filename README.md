@@ -23,3 +23,4 @@
 - [Creating an AWS organization](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_tutorials_basic.html)
 - [Best practices for management accounts - KEEP IN MIND THAT SCPs WON'T APPLY TO THEM](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices_mgmt-acct.html)
 - [Recommended OUs and accounts in a multi-account environment](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/recommended-ous-and-accounts.html)
+- [Migrating the legacy landing zones to control tower](https://aws.amazon.com/blogs/mt/migrate-aws-landing-zone-solution-to-aws-control-tower/)
