@@ -28,7 +28,9 @@
 - [Announcement of multiple plans in Cognito - features vary by plan "Lite", "Essentials"  and "Plus"](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
 - [IAM condition keys that can be used with OIDC (for example, aud, sub, ...)](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_iam-condition-keys.html#condition-keys-wif)
 - [Use cases for each federation type](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers.html)
-
+- [KMS grants](https://docs.aws.amazon.com/kms/latest/developerguide/grants.html)
+- [FIPS 140-2](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf)
+- [KMS is FIPS 140-3 Level 3 compliant since June 2025](https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/)
 ## Day 2 links
 - [Client-side encryption with the Encryption SDK](https://docs.aws.amazon.com/kms/latest/cryptographic-details/client-side-encryption.html)
 - [External key store support in KMS (company-owned HSMs](https://docs.aws.amazon.com/kms/latest/developerguide/keystore-external.html)
