@@ -42,3 +42,7 @@
 - [Sample solution for detecting unintended access on a bucket, triggered by a S3 access analyzer finding](https://aws.amazon.com/blogs/security/correlate-iam-access-analyzer-findings-with-amazon-macie/)
 - [S3 replication support for multiple destiantion buckets](https://aws.amazon.com/blogs/aws/new-amazon-s3-replication-adds-support-for-multiple-destination-buckets/)
 - [Encrypting unencrypted RDS resources require a hack - documented here](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html#Overview.Encryption.Limitations)
+- [With IAM conditions, we can force SSL traffic, using secureTransport there](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition_operators.html#Conditions_Boolean)
+- [DynamoDB Fine-grained access control, as announced in 2013](https://aws.amazon.com/blogs/aws/fine-grained-access-control-for-amazon-dynamodb/)
+- [Documentation for the above](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html)
+- 
