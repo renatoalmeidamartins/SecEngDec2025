@@ -28,3 +28,8 @@
 - [Announcement of multiple plans in Cognito - features vary by plan "Lite", "Essentials"  and "Plus"](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
 - [IAM condition keys that can be used with OIDC (for example, aud, sub, ...)](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_iam-condition-keys.html#condition-keys-wif)
 - [Use cases for each federation type](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers.html)
+
+## Day 2 links
+- [Client-side encryption with the Encryption SDK](https://docs.aws.amazon.com/kms/latest/cryptographic-details/client-side-encryption.html)
+- [External key store support in KMS (company-owned HSMs](https://docs.aws.amazon.com/kms/latest/developerguide/keystore-external.html)
+- [Since Jun 2021, multi-region keys are available](https://aws.amazon.com/blogs/security/encrypt-global-data-client-side-with-aws-kms-multi-region-keys/)
