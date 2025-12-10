@@ -45,4 +45,5 @@
 - [With IAM conditions, we can force SSL traffic, using secureTransport there](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition_operators.html#Conditions_Boolean)
 - [DynamoDB Fine-grained access control, as announced in 2013](https://aws.amazon.com/blogs/aws/fine-grained-access-control-for-amazon-dynamodb/)
 - [Documentation for the above](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html)
-- 
+- [Enforcing specific TLS versions when talking to s3 buckets](https://repost.aws/knowledge-center/s3-enforce-modern-tls)
+- [IAM service-specific conditions](https://docs.aws.amazon.com/en_us/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html)
