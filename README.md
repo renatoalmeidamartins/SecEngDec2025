@@ -49,4 +49,4 @@
 - [IAM service-specific conditions](https://docs.aws.amazon.com/en_us/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html)
 - [Announcement of gateway load balancer](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
 - [Applications for the GWLB](https://aws.amazon.com/blogs/networking-and-content-delivery/integrate-your-custom-logic-or-appliance-with-aws-gateway-load-balancer/)
-- 
+- [Origin Access control in Cloudfront](https://docs.aws.amazon.com/en_us/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
