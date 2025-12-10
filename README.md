@@ -47,3 +47,6 @@
 - [Documentation for the above](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html)
 - [Enforcing specific TLS versions when talking to s3 buckets](https://repost.aws/knowledge-center/s3-enforce-modern-tls)
 - [IAM service-specific conditions](https://docs.aws.amazon.com/en_us/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html)
+- [Announcement of gateway load balancer](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
+- [Applications for the GWLB](https://aws.amazon.com/blogs/networking-and-content-delivery/integrate-your-custom-logic-or-appliance-with-aws-gateway-load-balancer/)
+- 
