@@ -35,3 +35,4 @@
 - [Client-side encryption with the Encryption SDK](https://docs.aws.amazon.com/kms/latest/cryptographic-details/client-side-encryption.html)
 - [External key store support in KMS (company-owned HSMs](https://docs.aws.amazon.com/kms/latest/developerguide/keystore-external.html)
 - [Since Jun 2021, multi-region keys are available](https://aws.amazon.com/blogs/security/encrypt-global-data-client-side-with-aws-kms-multi-region-keys/)
+- [Secrets manager secret rotation lambdas](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
