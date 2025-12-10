@@ -40,3 +40,5 @@
 - [ENabling MFA delete on a bucket - root user and access keys are required](https://repost.aws/knowledge-center/s3-bucket-mfa-delete)
 - [SSE-C (S3 Server-side encryption with customer provided keys) is supported only until April 2026](https://aws.amazon.com/blogs/storage/advanced-notice-amazon-s3-to-disable-the-use-of-sse-c-encryption-by-default-for-all-new-buckets-and-select-existing-buckets-in-april-2026/)
 - [Sample solution for detecting unintended access on a bucket, triggered by a S3 access analyzer finding](https://aws.amazon.com/blogs/security/correlate-iam-access-analyzer-findings-with-amazon-macie/)
+- [S3 replication support for multiple destiantion buckets](https://aws.amazon.com/blogs/aws/new-amazon-s3-replication-adds-support-for-multiple-destination-buckets/)
+- [Encrypting unencrypted RDS resources require a hack - documented here](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html#Overview.Encryption.Limitations)
