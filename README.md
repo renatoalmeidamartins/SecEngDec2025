@@ -71,6 +71,6 @@
 - [DDoS Simulation policy](https://aws.amazon.com/security/ddos-simulation-testing/)
 - [Security Hub CSPM integrations](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html)
 - [Sample solution for automated security response, triggered from Security Hub findings](https://docs.aws.amazon.com/solutions/latest/automated-security-response-on-aws/architecture-overview.html)
-- [](https://docs.aws.amazon.com/systems-manager/latest/userguide/OpsCenter.html)
+- [OpsCenter, Systems Manager feature that can have operations items](https://docs.aws.amazon.com/systems-manager/latest/userguide/OpsCenter.html)
 - [AWS News Feed](https://aws.amazon.com/about-aws/whats-new/recent/feed/)
 - [GuardDuty malware scanning](https://docs.aws.amazon.com/guardduty/latest/ug/malware-protection.html)
