@@ -76,3 +76,5 @@
 - [GuardDuty malware scanning](https://docs.aws.amazon.com/guardduty/latest/ug/malware-protection.html)
 - [Automated forensics orchestrator](https://docs.aws.amazon.com/solutions/latest/automated-forensics-orchestrator-for-amazon-ec2/architecture-overview.html)
 - [Session duration when assuming roles in multiple contexts. Maximum is 12 hours](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_manage-assume.html?icmpid=docs_iam_console)
+- [Finding what rights a user has used, using multiple tools - Cloudtrail, Access Analyzer](https://repost.aws/knowledge-center/view-iam-history)
+- [Remove unused roles confidently](https://aws.amazon.com/blogs/security/identify-unused-iam-roles-remove-confidently-last-used-timestamp/)
