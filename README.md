@@ -65,5 +65,12 @@
 - [Structure of a Systems Manager automation document](https://docs.aws.amazon.com/systems-manager/latest/userguide/documents-components.html)
 - [Athena predefined VPC Flow Logs queries - deployable through a cloudformation template](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-run-athena-query.html)
 - [Centralized log analytics platform with Amazon OpenSearch Service - reference solution](https://docs.aws.amazon.com/solutions/latest/centralized-logging-with-opensearch/solution-overview.html)
-- 
-- 
+- [Security incident response simulations done by AWS](https://aws.amazon.com/blogs/security/aws-security-incident-response-the-customers-journey-to-accelerating-the-incident-response-lifecycle/)
+- [AWS Acceptable use policy](https://aws.amazon.com/aup/)
+- [Penetration testing policies](https://aws.amazon.com/security/penetration-testing/)
+- [DDoS Simulation policy](https://aws.amazon.com/security/ddos-simulation-testing/)
+- [Security Hub CSPM integrations](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html)
+- [Sample solution for automated security response, triggered from Security Hub findings](https://docs.aws.amazon.com/solutions/latest/automated-security-response-on-aws/architecture-overview.html)
+- [](https://docs.aws.amazon.com/systems-manager/latest/userguide/OpsCenter.html)
+- [AWS News Feed](https://aws.amazon.com/about-aws/whats-new/recent/feed/)
+- [GuardDuty malware scanning](https://docs.aws.amazon.com/guardduty/latest/ug/malware-protection.html)
