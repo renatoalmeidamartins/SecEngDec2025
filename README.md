@@ -36,7 +36,7 @@
 - [KMS is FIPS 140-3 Level 3 compliant since June 2025](https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/)
 ## Day 2 links
 - [Client-side encryption with the Encryption SDK](https://docs.aws.amazon.com/kms/latest/cryptographic-details/client-side-encryption.html)
-- [External key store support in KMS (company-owned HSMs](https://docs.aws.amazon.com/kms/latest/developerguide/keystore-external.html)
+- [External key store support in KMS (company-owned HSMs)](https://docs.aws.amazon.com/kms/latest/developerguide/keystore-external.html)
 - [Since Jun 2021, multi-region keys are available](https://aws.amazon.com/blogs/security/encrypt-global-data-client-side-with-aws-kms-multi-region-keys/)
 - [Secrets manager secret rotation lambdas](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [S3 bucket keys](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/#:~:text=In%20fact%2C%20S3%20Bucket%20Keys,at%20the%20end%20of%202020.)
