@@ -1,6 +1,6 @@
 
 # Last day task!
-- Please go to [https://www.aws.training/account/transcript/Archived](https://www.aws.training/account/transcript/Archived) and confirm your class has the status "Completed". If it has "No show" status, let me know to fix that. 
+- Please go to [https://www.aws.training/account/transcript/Archived](https://www.aws.training/account/transcript/Archived) and confirm your class has the status "Completed". If it has "No show" or "In progress" status, let me know to fix that. 
 
 
 ## Labs and learning materials
