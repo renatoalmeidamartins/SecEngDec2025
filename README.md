@@ -51,5 +51,11 @@
 - [Enforcing specific TLS versions when talking to s3 buckets](https://repost.aws/knowledge-center/s3-enforce-modern-tls)
 - [IAM service-specific conditions](https://docs.aws.amazon.com/en_us/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html)
 - [Announcement of gateway load balancer](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
+- [Network firewall announcement at the same time as GWLB](https://aws.amazon.com/blogs/aws/aws-network-firewall-new-managed-firewall-service-in-vpc/)
 - [Applications for the GWLB](https://aws.amazon.com/blogs/networking-and-content-delivery/integrate-your-custom-logic-or-appliance-with-aws-gateway-load-balancer/)
 - [Origin Access control in Cloudfront](https://docs.aws.amazon.com/en_us/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
+- [WAF rules maximum WCUs](https://docs.aws.amazon.com/waf/latest/developerguide/aws-waf-capacity-units.html)
+- [Netowrk firewall proxy in public preview, in Nov 2025](https://docs.aws.amazon.com/network-firewall/latest/developerguide/network-firewall-proxy-developer-guide.html)
+- [Some scenarios for Firewall manager](https://aws.amazon.com/blogs/security/aws-firewall-manager-helps-automate-security-group-management-3-scenarios/)
+
+## Day 3 links
