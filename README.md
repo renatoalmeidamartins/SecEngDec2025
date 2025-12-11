@@ -59,3 +59,8 @@
 - [Some scenarios for Firewall manager](https://aws.amazon.com/blogs/security/aws-firewall-manager-helps-automate-security-group-management-3-scenarios/)
 
 ## Day 3 links
+- [Cloudformation Guard language - can be used for config rules](https://github.com/aws-cloudformation/cloudformation-guard/tree/main)
+- [Config Conformance packs](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
+- [Remediation in Config uses Systems Manager documents. The actions that can be called on those documents are here](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html)
+- [Structure of a Systems Manager automation document](https://docs.aws.amazon.com/systems-manager/latest/userguide/documents-components.html)
+- 
