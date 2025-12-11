@@ -63,4 +63,5 @@
 - [Config Conformance packs](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
 - [Remediation in Config uses Systems Manager documents. The actions that can be called on those documents are here](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html)
 - [Structure of a Systems Manager automation document](https://docs.aws.amazon.com/systems-manager/latest/userguide/documents-components.html)
+- [Athena predefined VPC Flow Logs queries - deployable through a cloudformation template](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-run-athena-query.html)
 - 
