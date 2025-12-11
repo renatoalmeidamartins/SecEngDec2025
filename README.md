@@ -40,7 +40,7 @@
 - [Since Jun 2021, multi-region keys are available](https://aws.amazon.com/blogs/security/encrypt-global-data-client-side-with-aws-kms-multi-region-keys/)
 - [Secrets manager secret rotation lambdas](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [S3 bucket keys](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/#:~:text=In%20fact%2C%20S3%20Bucket%20Keys,at%20the%20end%20of%202020.)
-- [ENabling MFA delete on a bucket - root user and access keys are required](https://repost.aws/knowledge-center/s3-bucket-mfa-delete)
+- [Enabling MFA delete on a bucket - root user and access keys are required](https://repost.aws/knowledge-center/s3-bucket-mfa-delete)
 - [SSE-C (S3 Server-side encryption with customer provided keys) is supported only until April 2026](https://aws.amazon.com/blogs/storage/advanced-notice-amazon-s3-to-disable-the-use-of-sse-c-encryption-by-default-for-all-new-buckets-and-select-existing-buckets-in-april-2026/)
 - [Sample solution for detecting unintended access on a bucket, triggered by a S3 access analyzer finding](https://aws.amazon.com/blogs/security/correlate-iam-access-analyzer-findings-with-amazon-macie/)
 - [S3 replication support for multiple destiantion buckets](https://aws.amazon.com/blogs/aws/new-amazon-s3-replication-adds-support-for-multiple-destination-buckets/)
