@@ -74,3 +74,4 @@
 - [OpsCenter, Systems Manager feature that can have operations items](https://docs.aws.amazon.com/systems-manager/latest/userguide/OpsCenter.html)
 - [AWS News Feed](https://aws.amazon.com/about-aws/whats-new/recent/feed/)
 - [GuardDuty malware scanning](https://docs.aws.amazon.com/guardduty/latest/ug/malware-protection.html)
+- [Automated forensics orchestrator](https://docs.aws.amazon.com/solutions/latest/automated-forensics-orchestrator-for-amazon-ec2/architecture-overview.html)
